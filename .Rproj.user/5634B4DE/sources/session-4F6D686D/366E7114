@@ -1,0 +1,24 @@
+{
+    "id": "366E7114",
+    "path": "~/R Projects/BayneLab_Mover_Script/MasterMoverScript.R",
+    "project_path": "MasterMoverScript.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1665509056826.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1665508034,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1665508034,
+    "read_only": false,
+    "read_only_alternatives": []
+}
